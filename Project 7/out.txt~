@@ -1,0 +1,200 @@
+
+3073 records input.
+
+ executing before for each
+ executing before for each
+ executing before for each
+ executing before for each
+ executing before for each
+ executing before for each
+Ranking by January Temperature
+============================================================           DADE  FL        67.2
+        BROWARD  FL        66.8
+         MONROE  FL        65.6
+     PALM BEACH  FL        65.5
+         MARTIN  FL        65.4
+        COLLIER  FL        65.2
+      CHARLOTTE  FL          64
+            LEE  FL        63.5
+      ST. LUCIE  FL        63.5
+         HENDRY  FL        63.4
+      HIGHLANDS  FL        62.9
+         GLADES  FL        62.7
+
+ ...
+        KITTSON  MN         1.1
+       CAVALIER  ND         1.3
+         ROSEAU  MN         1.4
+       MARSHALL  MN         1.6
+      BOTTINEAU  ND         1.7
+     PENNINGTON  MN         2.7
+    LAKE OF THE  MN         2.7
+         TOWNER  ND         3.1
+       BELTRAMI  MN         3.1
+        PEMBINA  ND         3.3
+    GRAND FORKS  ND         3.5
+           EDDY  ND         3.8
+
+Ranking by January Sunshine
+============================================================         LA PAZ  AZ         266
+           YUMA  AZ         266
+           PIMA  AZ         260
+        COCHISE  AZ         260
+       GREENLEE  AZ         260
+         GRAHAM  AZ         260
+     SANTA CRUZ  AZ         260
+       IMPERIAL  CA         258
+           INYO  CA         258
+          GRANT  NM         258
+         CATRON  NM         258
+       PRESIDIO  TX         249
+
+ ...
+      WAHKIAKUM  WA          48
+         ISLAND  WA          48
+        CLALLAM  WA          48
+       SAN JUAN  WA          48
+      JEFFERSON  WA          48
+   GRAYS HARBOR  WA          48
+        PACIFIC  WA          48
+        CLATSOP  OR          49
+      TILLAMOOK  OR          49
+        LINCOLN  OR          49
+           COOS  OR          49
+          CURRY  OR          49
+
+Ranking by Average July Temperature
+============================================================       SAN JUAN  CO        55.5
+         SUMMIT  CO        55.6
+        CLALLAM  WA        55.9
+       HINSDALE  CO        56.1
+          GRAND  CO        56.1
+       HUMBOLDT  CA        56.3
+      MENDOCINO  CA        56.5
+           LAKE  CO        56.6
+        LINCOLN  OR        57.1
+        MINERAL  CO          58
+      TILLAMOOK  OR        58.1
+          TETON  WY        58.2
+
+ ...
+           YUMA  AZ        93.7
+         LA PAZ  AZ        93.7
+       IMPERIAL  CA          92
+       MARICOPA  AZ        91.2
+          PINAL  AZ        91.1
+          CLARK  NV        89.6
+         ZAPATA  TX        87.9
+           WEBB  TX        87.9
+       JIM HOGG  TX        87.9
+       MAVERICK  TX        87.8
+        TERRELL  TX        87.4
+       PRESIDIO  TX        87.4
+
+Ranking by Average July  Humidity
+============================================================      ESMERALDA  NV          14
+            NYE  NV          14
+        LINCOLN  NV          14
+        MINERAL  NV          14
+          CLARK  NV          14
+           INYO  CA          18
+       IMPERIAL  CA          18
+           RICH  UT          19
+       GARFIELD  UT          19
+         SUMMIT  UT          19
+        WASATCH  UT          19
+     WHITE PINE  NV          19
+
+ ...
+      ST. JAMES  LA          80
+      ASCENSION  LA          80
+   ST JOHN BAPT  LA          80
+    ST. CHARLES  LA          80
+    ST. BERNARD  LA          80
+    PLAQUEMINES  LA          80
+        ORLEANS  LA          80
+      JEFFERSON  LA          80
+      LAFOURCHE  LA          80
+     TERREBONNE  LA          80
+         ORANGE  FL          79
+         CITRUS  FL          79
+
+Ranking by Landform
+============================================================         SUMMIT  UT          21
+        WASATCH  UT          21
+         MORGAN  UT          21
+        DAGGETT  UT          21
+         ALPINE  CA          21
+           MONO  CA          21
+        SANPETE  UT          21
+           UTAH  UT          21
+          DAVIS  UT          21
+      SALT LAKE  UT          21
+       SAN JUAN  CO          21
+         SUMMIT  CO          21
+
+ ...
+      ST. JAMES  LA           1
+      ASCENSION  LA           1
+   ST JOHN BAPT  LA           1
+    ST. CHARLES  LA           1
+    ST. BERNARD  LA           1
+    PLAQUEMINES  LA           1
+        ORLEANS  LA           1
+      JEFFERSON  LA           1
+      LAFOURCHE  LA           1
+     TERREBONNE  LA           1
+         ORANGE  FL           1
+         CITRUS  FL           1
+
+Ranking by Water Area
+============================================================   SAN FRANCISC  CA     75.0256
+       KEWEENAW  MI     75.0256
+       LEELANAU  MI     75.0256
+           LAKE  OH     75.0256
+           DOOR  WI     75.0256
+      MILWAUKEE  WI     75.0256
+        OZAUKEE  WI     75.0256
+          DUKES  MA     75.0256
+      NANTUCKET  MA     75.0256
+          ALGER  MI     75.0256
+           DARE  NC     75.0256
+   PRESQUE ISLE  MI     74.3534
+
+ ...
+         TIPTON  IN        0.01
+        WICHITA  KS        0.01
+        GREELEY  KS        0.01
+        WALLACE  KS        0.01
+        STANTON  KS        0.01
+         MORTON  KS        0.01
+         DAWSON  TX        0.01
+         YOAKUM  TX        0.01
+          CRANE  TX        0.01
+        SIMPSON  KY        0.01
+         GRUNDY  IA        0.01
+           GOVE  KS        0.01
+
+Composite Ranking 
+============================================================         MONROE  FL     10.5405
+       PINELLAS  FL     8.58568
+           DARE  NC     7.89764
+   SAN FRANCISC  CA        7.73
+    ST. BERNARD  LA     7.25741
+    NORTHAMPTON  VA     7.24633
+            LEE  FL     7.17654
+        BREVARD  FL     6.83309
+       CARTERET  NC     6.81695
+    PLAQUEMINES  LA     6.53293
+
+ ...
+        DOUGLAS  WA    -5.90794
+        LINCOLN  WA    -5.74494
+          ADAMS  WA    -5.59719
+          LEWIS  ID    -5.46347
+        MADISON  ID    -5.18709
+      JEFFERSON  ID    -5.14119
+        GRANITE  MT    -5.10451
+         POWELL  MT    -5.08688
+        SHERMAN  OR    -5.04075
+         OWYHEE  ID    -5.00785

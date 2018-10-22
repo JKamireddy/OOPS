@@ -1,0 +1,15 @@
+assign8: assign8.o Amenity.o Functions.o AmenityHelper.o 
+	g++ -o  assign8 assign8.o Functions.o Amenity.o AmenityHelper.o 
+AmenityHelper.o: AmenityHelper.cc AmenityHelper.h Amenity.h
+	g++ -c -std=c++11 AmenityHelper.cc
+Functions.o: Functions.cc assign8.h Amenity.h
+	g++ -c  -std=c++11 Functions.cc
+assign8.o: assign8.cc assign8.h Amenity.h
+	g++ -c -std=c++11 assign8.cc
+
+Amenity.o: Amenity.cc Amenity.h MathUtility.h
+	g++ -c -std=c++11 Amenity.cc
+#MathUtility.o: MathUtlity.cc MathUtility.h Amenity.h
+#	g++ -c -std=c++11 MathUtility.cc
+clean :
+	rm -f *.o

@@ -1,0 +1,59 @@
+//Header file for Amenity Class
+#ifndef AMENITY_H
+#define AMENITY_H
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <math.h>
+using std::vector;
+using std::string;
+using std::cout;
+//static vector<float> all_jan_sunshine;
+//static vector<float> all_jul_temp;
+//static vector<float> all_jul_humidity;
+//static vector<float> all_terrain;
+//static vector<float> all_landform;
+class Amenity
+{
+  float jan_temp,jan_sunshine,avg_july_temp,avg_july_humidity,terrain,comp_amenity_value;;
+  int landform,ID;
+  string country_name,state_abbr;
+ public:
+  Amenity();
+  Amenity(int id,string abbr,string name,float temp,float sunshine,float jul_temp,float july_humidity,int landform_value,float terr);
+ 
+  void set_Comp_Amenity_Value(float value);
+  float get_Comp_Amenity_Value();
+ 
+   string get_country_name()const;
+   string get_state_abbr()const;
+   float get_jan_temp()const;
+   float get_jan_sunshine()const;
+   float get_avg_july_temp()const;
+   float get_avg_july_humidity()const;
+   float get_terrain()const;
+   int get_landform()const;
+   int get_Id()const;
+   
+    
+};
+  bool compare_January_Temperature(const Amenity &ref1,const Amenity &ref2);
+  bool compare_January_Sunshine(const Amenity &ref1,const Amenity &ref2);
+  bool compare_July_Temperature(const Amenity &ref1,const Amenity &ref2);
+  bool compare_July_Humidity(const Amenity &ref1,const Amenity &ref2);
+  bool compare_Terrain(const Amenity &ref1,const Amenity &ref2);
+  bool compare_Landform(const Amenity &ref1,const Amenity &ref2);
+//Functions that helps to get the Vector of floats
+   void getall_jan_temp(vector<Amenity> &ref,vector<float> &v);
+   void getall_jan_sunshine(vector<Amenity> &ref,vector<float> &v);
+   void getall_avg_july_temp(vector<Amenity> &ref,vector<float> &v);
+   void getall_avg_july_humidity(vector<Amenity> &ref,vector<float> &v);
+   void getall_terrain(vector<Amenity> &ref,vector<float> &v);
+   void getall_landform(vector<Amenity> &ref,vector<float> &v);
+//Math Utility Fucntions
+   float calculate_Average(vector<float> &v);
+float calculate_StandardDeviation(vector<float> &v,float &avg);
+   void print1();
+
+#endif
