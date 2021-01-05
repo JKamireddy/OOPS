@@ -1,18 +1,5 @@
 
 
-/******************************************************************************
-  *  Name: SAHITHI KAMIREDDY                                                    *
-  *  Z:ID: Z1831177                                                           *
-  *  Class: CSCI 689                                                     *
-  *  Date: 02-01-2018.                                                        *
-  *  Description: Printing the Heat Index table using Air Temperatures                                                                         *
-  *               and Relative Humidity.
-    Instructor: Dr.Duffin
-	   TA: Nithin Devang                                                         *
-  *                                                                           *
-  *                                                                           *
-******************************************************************************/
-
 #include<iostream>
 #include<iomanip>
 #include<cmath>
