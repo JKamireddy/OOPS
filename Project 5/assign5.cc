@@ -1,10 +1,4 @@
-/*******************************************
-COURSE: CSCI689
-NAME: SAHITHI KAMIREDDY
-ZID: z1831177
-INSTRUCTOR: KIRK DUFFIN
-TA : NITHIN DEVANG
-*******************************************/
+
 
 /*********** ASSIGNMENT 5 *************/
 
